@@ -1,0 +1,8 @@
+npm -v
+node -v
+sudo npm i -g npm@5.5.1
+npm init - init package.json
+npm init --yes
+npm install packageName
+npm i packageName - install package
+npm i - restore all depedencies
